@@ -1,4 +1,4 @@
-package com.example.lab12_hw
+package com.example.lab12kotlin
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

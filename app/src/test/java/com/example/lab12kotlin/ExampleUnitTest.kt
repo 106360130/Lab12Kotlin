@@ -1,4 +1,4 @@
-package com.example.lab12_hw
+package com.example.lab12kotlin
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.lab12_hw
+package com.example.lab12kotlin
 
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
